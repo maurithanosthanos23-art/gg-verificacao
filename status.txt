@@ -1,3 +1,3 @@
-STATUS=ON
+STATUS=OFF
 VERSAO=1.0
-MENSAGEM=Bem-vindo ao melhor script 😎🔥
+MENSAGEM=Compra Versão Vip Para Continuar Usando 😊
