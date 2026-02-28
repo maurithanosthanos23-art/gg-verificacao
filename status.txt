@@ -1,3 +1,5 @@
-STATUS=OFF
+STATUS=ON
 VERSAO=1.0
-MENSAGEM=Compra Versão Vip Para Continuar Usando 😊
+MENSAGEM=Esse é uma versão de teste!
+MENSAGEM=Versão vip disponível no WhatsApp
+MENSAGEM=Link do grupo nos comentários
