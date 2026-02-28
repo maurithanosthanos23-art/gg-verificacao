@@ -1,1 +1,3 @@
-OFF
+STATUS=ON
+VERSAO=1.0
+MENSAGEM=Bem-vindo ao melhor script 😎🔥
