@@ -1,5 +1,4 @@
-STATUS=ON
+STATUS=OFF
 VERSAO=1.0
-MENSAGEM=Esse é uma versão de teste!
-MENSAGEM=Versão vip disponível no WhatsApp
-MENSAGEM=Link do grupo nos comentários
+MENSAGEM=Fala comigo no WhatsApp!
+MENSAGEM=Link do grupo nos comentários!
