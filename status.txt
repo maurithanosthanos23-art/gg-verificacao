@@ -1,4 +1,4 @@
-STATUS=OFF
+STATUS=ON
 VERSAO=1.0
 MENSAGEM=Fala comigo no WhatsApp!
 MENSAGEM=Link do grupo nos comentários!
