@@ -1,4 +1,5 @@
-STATUS=ON
+STATUS=OFF
 VERSAO=1.0
-MENSAGEM=Fala comigo no WhatsApp!
-MENSAGEM=Link do grupo nos comentários!
+MENSAGEM=Talk to me on WhatsApp!
+MENSAGEM=Link to the group in the comments!
+MENSAGEM=I'm working to resolve the issue and translate the script into English.
