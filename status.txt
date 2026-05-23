@@ -1,5 +1,8 @@
-STATUS=ON
+STATUS=OFF
 VERSAO=1.0
-MENSAGEM=Talk to me on WhatsApp!
-MENSAGEM=Link to the group in the comments!
-MENSAGEM=I'm working to resolve the issue and translate the script into English.
+MENSAGEM=Script expirado, versão de avaliação.
+MENSAGEM=Esta é apenas uma versão de teste do roteiro; entre em contato comigo para adquirir a versão completa.
+MENSAGEM=Entre em contato comigo pelo WhatsApp ou Telegram.
+MENSAGEM=This is just a trial version of the script; contact me to purchase the full version.
+MENSAGEM=Script expired, trial version.
+MENSAGEM=Contact me via WhatsApp or Telegram.
